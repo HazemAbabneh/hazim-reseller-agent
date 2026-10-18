@@ -10,7 +10,7 @@ Features
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/HazemAbabneh/open-claw-reseller-agent.git
+   git clone https://github.com/HazemAbabneh/hazim-reseller-agent
 2. Create a virtual environment (recommended):
    python -m venv .venv
    source .venv/bin/activate   # macOS/Linux
