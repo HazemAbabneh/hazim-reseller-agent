@@ -1,0 +1,3 @@
+# Minimal dependencies; jsonschema is optional but recommended for schema validation
+jsonschema>=4.0.0
+rich>=13.0.0
